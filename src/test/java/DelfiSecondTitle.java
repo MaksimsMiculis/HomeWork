@@ -85,7 +85,6 @@ public class DelfiSecondTitle {
 
         Assertions.assertEquals(commentCountSecondArticleHomePageInt, commentCountSecondArticlePageInt, "Home page and article page comment count is not equal");
         Assertions.assertEquals(commentCountSecondArticlePageInt, commentCountSum, "Article page and Comment page anon comment count is not equal");
-//        Assertions.assertEquals(commentCountAnonInt, commentCountRegInt, "Comment page anon and registred comment count is not equal");
 
 
     }
